@@ -1,0 +1,13 @@
+.profile{
+    padding: 12px 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.profile img{
+    width: 200px;
+    border-radius: 50%;
+}
+.profile div a{
+    text-decoration: none;
+}

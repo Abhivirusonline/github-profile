@@ -1,0 +1,13 @@
+nav{
+    background-color: #3438a1;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    background-color: #3438a1;
+    text-decoration: none;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 18px;
+}
